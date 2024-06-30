@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos_e_Estruturas_de_Dados", "Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados.csproj", "{EF9B44F3-E2DE-403B-899C-C94193868E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9B44F3-E2DE-403B-899C-C94193868E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9B44F3-E2DE-403B-899C-C94193868E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9B44F3-E2DE-403B-899C-C94193868E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9B44F3-E2DE-403B-899C-C94193868E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BCB2E0D-96D5-46BC-BD09-3C68EF49052A}
+	EndGlobalSection
+EndGlobal

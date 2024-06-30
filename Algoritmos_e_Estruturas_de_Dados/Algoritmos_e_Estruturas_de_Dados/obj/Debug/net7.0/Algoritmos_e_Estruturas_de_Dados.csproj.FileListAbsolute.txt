@@ -1,0 +1,14 @@
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\bin\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.exe
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\bin\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.deps.json
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\bin\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.runtimeconfig.json
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\bin\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.dll
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\bin\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.pdb
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\obj\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\obj\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.AssemblyInfoInputs.cache
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\obj\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.AssemblyInfo.cs
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\obj\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.csproj.CoreCompileInputs.cache
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\obj\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.dll
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\obj\Debug\net7.0\refint\Algoritmos_e_Estruturas_de_Dados.dll
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\obj\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.pdb
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\obj\Debug\net7.0\Algoritmos_e_Estruturas_de_Dados.genruntimeconfig.cache
+D:\IT\Algoritmos e estruturas de dados\Algoritmos_e_Estruturas_de_Dados\Algoritmos_e_Estruturas_de_Dados\obj\Debug\net7.0\ref\Algoritmos_e_Estruturas_de_Dados.dll
