@@ -20,7 +20,7 @@ using System.Globalization;
 //Console.WriteLine(String.Join(", ", Capitulo_1.Insercao(ref vetorA)));
 
 //Console.WriteLine(Aula01_2.lgProd(8));
-
+/*
 Stack<int> A = new Stack<int>();
 Stack<int> B = new Stack<int>();
 Stack<int> C = new Stack<int>();
@@ -42,3 +42,9 @@ Console.WriteLine(string.Join(", ", A));
 
 Console.Write("C: ");
 Console.WriteLine(string.Join(", ", C));
+*/
+
+double iterativo = Aula03.e_iterativo(3,3);
+double recursivo = Aula03.e_recursivo(3,3);
+
+Console.WriteLine($"Iterativo: {iterativo}\nRecursivo: {recursivo}");
