@@ -46,5 +46,6 @@ Console.WriteLine(string.Join(", ", C));
 
 double iterativo = Aula03.e_iterativo(3,3);
 double recursivo = Aula03.e_recursivo(3,3);
+double recursivo2 = Aula03_2.ex2(3, 3);
 
-Console.WriteLine($"Iterativo: {iterativo}\nRecursivo: {recursivo}");
+Console.WriteLine($"Iterativo: {iterativo}\nRecursivo: {recursivo}\nRecursivo 2: {recursivo2}");
